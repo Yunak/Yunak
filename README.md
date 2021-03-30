@@ -19,9 +19,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-
-
 <details>
 <summary>GitHub统计信息</summary>
 
@@ -43,8 +40,8 @@
 <a href="https://github.com/Yunak/Yunak">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=Yunak" />
 </a>    
-<a href="https://gitee.com/Yunak/leetcode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=leetcode" />
+<a href="https://gitee.com/Yunak/MySQL-ClassNote">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=MySQL-ClassNote" />
 </a>
 
 <br/>
