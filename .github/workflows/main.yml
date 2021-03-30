@@ -20,9 +20,9 @@ jobs:
 # #           GH_TOKEN: ${{ secrets.GH_TOKEN}}
 #           USERNAME: eternidad33
 #           SHOW_TITLE: true
-      - uses: Yunak
+      - uses: Yunak/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: f40e407b-ab44-424b-b2a5-67cd058f82a5
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_EDITORS: true
           SHOW_OS: true
