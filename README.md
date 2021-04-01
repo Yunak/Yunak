@@ -31,14 +31,6 @@ Git Config 🕓 6m    █░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-<!-- waka-box start -->
-<!-- waka-box end -->
-
-<!-- waka-box start -->
-<!-- waka-box end -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <details>
 <summary>GitHub统计信息</summary>
 
