@@ -26,6 +26,9 @@
 
 <!-- waka-box start -->
 <!-- waka-box end -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <details>
 <summary>GitHub统计信息</summary>
 
