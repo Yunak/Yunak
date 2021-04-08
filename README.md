@@ -12,8 +12,11 @@
 
 - 😄**后端** Python
 - 😃**虚拟化** Docker，KVM
+- 😶**云平台** Kubernetes，openstack
 - 😆**数据库** MySQL,MongoDB,Redis
 - 😝**框架** SpringBoot，Django
+- 😎**监控** zabbix
+- 🐷**网络** router switch
 - 😛**设计** Photoshop，Audition，Premiere
 - 😧**都不精通**
 
