@@ -21,7 +21,7 @@
 - 😧**都不精通**
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/17e653c57c0cf8e15bdbcda55e8c789e" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/17e653c57c0cf8e15bdbcda55e8c789e" target="_blank">📊 周工作时长</a>
 ```text
 Markdown  🕓 3h9m  ████████████▎░░░░░░░░░░░░░░░░ 42.6%
 Other     🕓 1h11m ████▋░░░░░░░░░░░░░░░░░░░░░░░░ 16.2%
