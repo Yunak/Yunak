@@ -61,7 +61,7 @@ Other    🕓 1m    ░░░░░░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=MySQL-ClassNote" />
 </a>
 <a href="https://github.com/kubectl-Command/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=Yunak" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunak&repo=kubectl-Command" />
 </a>   
 <br/>
 <br/>
