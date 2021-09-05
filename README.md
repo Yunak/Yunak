@@ -23,11 +23,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/17e653c57c0cf8e15bdbcda55e8c789e" target="_blank">📊 Weekly development breakdown</a>
 ```text
-YAML                     🕓 3h1m  ████░░░░░░░░░░ 28.6%
-systemd                  🕓 2h43m ███▌░░░░░░░░░░ 25.8%
-Other                    🕓 1h56m ██▌░░░░░░░░░░░ 18.4%
-Bash                     🕓 1h2m  █▍░░░░░░░░░░░░  9.9%
-JavaScript               🕓 52m   █▏░░░░░░░░░░░░  8.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
