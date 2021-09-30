@@ -10,14 +10,14 @@
 
 ![](http://antzuhl.cn:4000/get/@Yunak.readme)
 
-- 😄**后端** Python
-- 😃**虚拟化** Docker，KVM
-- 😶**云平台** Kubernetes，openstack
-- 😆**数据库** MySQL,MongoDB,Redis
-- 😝**框架** SpringBoot，Django
-- 😎**监控** zabbix
+- 😄**后端** Python、GoLang
+- 😃**虚拟化** Docker、KVM
+- 😶**云平台** Kubernetes、openstack
+- 😆**数据库** MySQL、MongoDB、Redis
+- 😝**框架** Django
+- 😎**监控** Zabbix
 - 🐷**网络** router switch
-- 😛**设计** Photoshop，Audition，Premiere
+- 😛**设计** Photoshop、Audition、Premiere
 - 😧**都不精通**
 
 <!-- waka-box start -->
