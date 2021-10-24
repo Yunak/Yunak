@@ -16,9 +16,8 @@
 - 😆**数据库** MySQL、MongoDB、Redis
 - 😝**框架** Django
 - 😎**监控** Zabbix
-- 🐷**网络** router switch
+- 🐷**网络** Router Switch (TCP/IP)
 - 😛**设计** Photoshop、Audition、Premiere
-- 😧**都不精通**
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/17e653c57c0cf8e15bdbcda55e8c789e" target="_blank">📊 Weekly development breakdown</a>
