@@ -10,12 +10,12 @@
 
 ![](http://antzuhl.cn:4000/get/@Yunak.readme)
 
-- 😄**后端** Python、GoLang
+- 😄**开发** Python、GoLang、Shell
 - 😃**虚拟化** Docker、KVM
-- 😶**云平台** Kubernetes、openstack
+- 😶**云平台** Kubernetes、Openstack、ESXI、PVE
 - 😆**数据库** MySQL、MongoDB、Redis
-- 😝**框架** Django
-- 😎**监控** Zabbix
+- 😝**框架** Django、Flask
+- 😎**监控** Zabbix、Prometheus、Grafana
 - 🐷**网络** Router Switch (TCP/IP)
 - 😛**设计** Photoshop、Audition、Premiere
 
