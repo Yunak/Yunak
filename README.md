@@ -28,11 +28,16 @@ Still Gathering Statistics...
 <!-- waka-box end -->
 **平台工具**   
   
-[![](https://img.shields.io/badge/-Centos-76EEC6?style=flat-square&logo=Centos)](https://www.centos.org/)
+[![](https://img.shields.io/badge/-Centos-a14f8c?style=flat-square&logo=Centos)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Archlinux-E95420?style=flat-square&logo=Archlinux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
-[![img](https://camo.githubusercontent.com/48819dba991abbefa6f4dce6aaa9c4073f98782ca8981ddbdba9d4051156a2d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6c616e672d3030414444383f7374796c653d666c61742d737175617265266c6f676f3d676f266c6f676f436f6c6f723d666666666666)](https://golang.org/) [![img](https://camo.githubusercontent.com/05884d2ea16f46ea94592b695b93f587ce471811ceb0df27a99b185e13d6ffd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d666666666666)](https://www.docker.com/) [![img](https://camo.githubusercontent.com/12676a3f43180a543107e25d95e3682da20d4b8fcc4371834219ab6e55206527/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e67696e782d3236393533393f7374796c653d666c61742d737175617265266c6f676f3d4e67696e78266c6f676f436f6c6f723d666666666666)](https://nginx.org/) [![img](https://camo.githubusercontent.com/0404130d963387beb9edc2d05b8475ab118e3fa6dd8f9a2c893178ebc3014b70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3332364345353f7374796c653d666c61742d737175617265266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d666666666666)](https://kubernetes.io/) 
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-MySql-ffffff?style=flat-square&logo=MySql)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+
 <details>
 <summary>GitHub统计信息</summary>
 
